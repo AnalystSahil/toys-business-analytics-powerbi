@@ -1,6 +1,8 @@
 # Toys Business Analytics — Power BI Project
 
 Business Intelligence • DAX • Data Modeling • Time Intelligence • Website Analytics
+<img width="1360" height="761" alt="image" src="https://github.com/user-attachments/assets/456badba-65af-481b-a083-ec1d3f9ed8a8" />
+
 
 ## 📌 Project Overview
 
